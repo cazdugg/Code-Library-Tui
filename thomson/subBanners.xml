@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubBanner>
+<ThomsonSub>
+    <title>Sub Banner 1</title>
+    <id>1</id>
+    <html>subBanner1.html</html>
+    <code>
+      <![CDATA[
+        <!-- ********** Sub Banner Begin ********** -->
+        <tr>
+          <td align="center" class="full-width" width="100%" bgcolor="#74afdc" background="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/latebg.jpg" valign="top" height="auto" style="background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/latebg.jpg); background-repeat:no-repeat;">
+
+ <!--[if gte mso 9]>
+<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:620px;height:215px;">
+<v:fill type="tile" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/latebg.jpg" color="#74afdc" />
+<v:textbox inset="0,0,0,0">
+<![endif]-->
+            
+            <table width="100%" cellspacing="0" cellpadding="0" height="214">
+              <tr>
+                <td colspan="3" height="60" align="left" valign="top" style="padding-left:17px; padding-top:10px;"><table class="fixed-width" border="0" cellspacing="0" cellpadding="0" bgcolor="#639fd3">
+                    <tr>
+                      <td height="40" class="fontsizeB" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:18px; line-height:24px; color:#fff; padding-bottom:2px; padding-left:10px"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&amp;ecamp=[return $ecamp;]&amp;ito=ecrm[return $ecrmCode$outmailid;]&amp;elink=longhaul9} -group {html:29}%%" style="color:#fff; text-decoration:none;">Tempted by a Faraway Shore?<strong> Save &pound;75 on Feb-April 2014 holidays with code 42036*.</strong> Book online or in store</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="middle" style="padding-left:17px; padding-bottom:10px;"><table width="98%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td class="mobile-floattop"><table border="0" cellspacing="0" cellpadding="0" width="190">
+                          <tr>
+                            <td align="center" bgcolor="#f8f0e5" style="padding:10px;"><table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">FLORIDA </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul1} -group {html:30}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;594*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul1} -group {html:31}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">GOA </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul2} -group {html:32}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;486*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul2} -group {html:33}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">MEXICO </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul3} -group {html:34}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;709*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul3} -group {html:35}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td class="mobile-floattop"><table border="0" cellspacing="0" cellpadding="0" width="190">
+                          <tr>
+                            <td align="center" bgcolor="#f8f0e5" style="padding:10px;"><table border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">CUBA </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul4} -group {html:36}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;897*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul4} -group {html:37}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">JAMAICA </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul5} -group {html:38}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;864*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul5} -group {html:39}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td height="32"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="66" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;"><span style="font-size:14px;">DOM REP </span></td>
+                                        <td width="90" height="32" align="left" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:12px; line-height:15px; color:#666666;">from <a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul6} -group {html:40}%%" style="color:#333333; font-size:18px; font-weight:bold;">&pound;629*</a></td>
+                                        <td width="14" align="right"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul6} -group {html:41}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/fc/FC140130/arrow.gif" width="8" height="11" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td width="124" class="mobile-floattop" align="left" valign="bottom"><table bgcolor="#faa91a" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="15" style="width:15px;"></td>
+                            <td bgcolor="#faa91a" height="30" valign="middle" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:14px; line-height:24px; color:#fff; padding-bottom:2px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul8} -group {html:42}%%" style="color:#fff; text-decoration:none;">More Deals</a></td>
+                            <td width="30" align="left" valign="middle"><a href="%%track {http://www.thomson.co.uk/destinations/deals/long-haul-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=longhaul7} -group {html:43}%%" style="border-style:none; text-decoration:none;"><img src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH131218/arrow-main.png" alt="More" width="20" height="30" class="#" style="display:block" border="0" /></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+             <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+<![endif]-->
+            </td>
+        </tr>
+<!--Sub Banner end-->
+
+       ]]>
+
+    </code>
+    <css>
+        specific css for this particular sub banner    
+    </css>
+    <height>215</height>
+     <width>620</width>
+</ThomsonSub>
+    
+<ThomsonSub>
+    <title>Sub Banner 2</title>
+    <id>2</id>
+    <html>subBanner2.html</html>
+    <code><![CDATA[
+ <!-- Start sub banner -->
+            <tr>
+          <td width="100%" valign="top" style="background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH141114/sub.jpg);" background="http://cslb.creatormail.co.uk/sites/tui/thomson/TH141114/sub.jpg"><!--[if gte mso 9]>
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:620px;height:193px;">
+    <v:fill type="tile" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH141114/sub.jpg" color="#119ca6" />
+    <v:textbox inset="0,0,0,0">
+<![endif]-->
+        
+        <table class="full-width" width="620" border="0" cellspacing="0" cellpadding="0" align="center">
+              <tr>
+                <td class="padbtm"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                      <td width="74%" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="offers-width">
+                          <tr>
+                            <td style="font-size:0px; line-height:0px;"><img width="15" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="25" border="0" /></td>
+                          </tr>
+                        </table></td>
+                      
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td class="mobile-float" align="center" style="padding-bottom:20px;"><table width="249" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="hide"><img width="15" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                            <td align="right"><table width="116" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tr>
+                                  <td style="font-family:Helvetica, Arial, sans-serif; font-size:17px; color:#333333; padding-top:8px; padding-left:8px; padding-right:8px;"><a style="color:#333333; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=s151} -group {html:27}%%">GREECE</a></td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top:4px; padding-left:8px; padding-right:8px; padding-bottom:4px;"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="35" style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#333333;" valign="bottom">FROM&nbsp;</td>
+                                        <td width="66" style="font-family:Helvetica, Arial, sans-serif; font-size:20px; font-weight:bold; color:#FCB712;" valign="bottom"><a style="color:#FCB712; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=s151} -group {html:28}%%">&pound;194</a>*</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td valign="bottom" align="center" style="padding-top:8px; padding-left:8px; padding-right:8px; padding-bottom:8px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=s151} -group {html:29}%%"><img width="78" src="http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/moreBtn_sand.gif" style="display:block" alt="More" height="28" border="0"></a></td>
+                                </tr>
+                              </table></td>
+                            <td width="1" bgcolor="#e5dcc6"><img width="1" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                            <td align="left"><table width="116" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tr>
+                                  <td style="font-family:Helvetica, Arial, sans-serif; font-size:17px; color:#333333; padding-top:8px; padding-left:8px; padding-right:8px;"><a style="color:#333333; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S152} -group {html:30}%%">TURKEY</a></td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top:4px; padding-left:8px; padding-right:8px; padding-bottom:4px;"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="35" style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#333333;" valign="bottom">FROM&nbsp;</td>
+                                        <td width="66" style="font-family:Helvetica, Arial, sans-serif; font-size:20px; font-weight:bold; color:#FCB712;" valign="bottom"><a style="color:#FCB712; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S152} -group {html:31}%%">&pound;200</a>*</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td valign="bottom" align="center" style="padding-top:8px; padding-left:8px; padding-right:8px; padding-bottom:8px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S152} -group {html:32}%%"><img width="78" src="http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/moreBtn_sand.gif" style="display:block" alt="More" height="28" border="0"></a></td>
+                                </tr>
+                              </table></td>
+                            <td width="1" bgcolor="#e5dcc6" class="hide"><img width="1" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                          </tr>
+                        </table></td>
+                      <td align="right" class="hide" style="padding-bottom:20px;"><table width="122" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td><table width="121" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tr>
+                                  <td style="font-family:Helvetica, Arial, sans-serif; font-size:17px; color:#333333; padding-top:8px; padding-left:8px; padding-right:8px;"><a style="color:#333333; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S154} -group {html:33}%%">ITALY</a></td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top:4px; padding-left:8px; padding-right:8px; padding-bottom:4px;"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="35" style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#333333;" valign="bottom">FROM&nbsp;</td>
+                                        <td width="66" style="font-family:Helvetica, Arial, sans-serif; font-size:20px; font-weight:bold; color:#FCB712;" valign="bottom"><a style="color:#FCB712; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S154} -group {html:34}%%">&pound;238</a>*</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td valign="bottom" align="center" style="padding-top:8px; padding-left:8px; padding-right:8px; padding-bottom:8px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S154} -group {html:35}%%"><img width="78" src="http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/moreBtn_sand.gif" style="display:block" alt="More" height="28" border="0"></a></td>
+                                </tr>
+                              </table></td>
+                            <td width="1" bgcolor="#e5dcc6" class="hide"><img width="1" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                          </tr>
+                        </table></td>
+                      <td class="mobile-float" align="center" style="padding-bottom:20px;"><table width="249" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="right"><table width="116" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tr>
+                                  <td style="font-family:Helvetica, Arial, sans-serif; font-size:17px; color:#333333; padding-top:8px; padding-left:8px; padding-right:8px;"><a style="color:#333333; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S155} -group {html:36}%%">CYPRUS</a></td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top:4px; padding-left:8px; padding-right:8px; padding-bottom:4px;"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="35" style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#333333;" valign="bottom">FROM&nbsp;</td>
+                                        <td width="66" style="font-family:Helvetica, Arial, sans-serif; font-size:20px; font-weight:bold; color:#FCB712;" valign="bottom"><a style="color:#FCB712; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S155} -group {html:37}%%">&pound;286</a>*</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td valign="bottom" align="center" style="padding-top:8px; padding-left:8px; padding-right:8px; padding-bottom:8px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S155} -group {html:38}%%"><img width="78" src="http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/moreBtn_sand.gif" style="display:block" alt="More" height="28" border="0"></a></td>
+                                </tr>
+                              </table></td>
+                            <td width="1" bgcolor="#e5dcc6"><img width="1" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                            <td align="left"><table width="116" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+                                <tr>
+                                  <td style="font-family:Helvetica, Arial, sans-serif; font-size:17px; color:#333333; padding-top:8px; padding-left:8px; padding-right:8px;"><a style="color:#333333; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S156} -group {html:39}%%">JAMAICA</a></td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top:4px; padding-left:8px; padding-right:8px; padding-bottom:4px;"><table width="100" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="35" style="font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#333333;" valign="bottom">FROM&nbsp;</td>
+                                        <td width="66" style="font-family:Helvetica, Arial, sans-serif; font-size:20px; font-weight:bold; color:#FCB712;" valign="bottom"><a style="color:#FCB712; text-decoration:none" href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S156} -group {html:40}%%">&pound;692</a>*</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                                <tr>
+                                  <td valign="bottom" align="center" style="padding-top:8px; padding-left:8px; padding-right:8px; padding-bottom:8px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S156} -group {html:41}%%"><img width="78" src="http://cslb.creatormail.co.uk/sites/tui/thomson/NewThWkly2013/moreBtn_sand.gif" style="display:block" alt="More" height="28" border="0"></a></td>
+                                </tr>
+                              </table></td>
+                            <td class="hide"><img width="15" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="1" border="0" /></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td class="padbtm"><table class="offers-width" border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                      
+                      <td width="26%" align="right" style="padding-right:15px; padding-bottom:15px;"><a href="%%track {http://www.thomson.co.uk/destinations/deals/summer-2015-deals?cmid=[return $cmid;]&ecamp=[return $ecamp;]&ito=ecrm[return $ecrmCode$outmailid;]&elink=S157} -group {html:42}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH141114/moregreat.png" width="154" height="30" alt="More great offers" border="0" style="display:block" /></a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+           <!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+<![endif]-->  
+            
+            </td>
+        </tr>
+        <!-- End Sub Banner -->  
+]]></code>
+    <css>
+        specific css for this particular sub banner    
+    </css>
+    <height>193</height>
+    <width>620</width>
+    
+</ThomsonSub>
+    
+<ThomsonSub>
+    <title>Sub Banner 3 - For Wide Template</title>
+    <id>3</id>
+    <html>subBanner3.html</html>
+    <code>
+      <![CDATA[
+        <!-- sub banner -->
+            
+            <table class="full-width" align="center" width="620" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td style="border-top: 1px solid #ccc5c3; font-size:0px; line-height:0px;"><img src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH131213/spacer.gif" style="display:block"  width="15" height="20" border="0" /></td>
+              </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tr>
+                      <td class="mobMainbnr3" bgcolor="#5c97c3" style="background-image: url(http://cslb.creatormail.co.uk/sites/tui/thomson/TH150529/sub-banner.jpg); background-repeat:no-repeat;" background="http://cslb.creatormail.co.uk/sites/tui/thomson/TH150529/sub-banner.jpg"><!--[if gte mso 9]><v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:620px;height:217px;"><v:fill type="frame" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH150529/sub-banner.jpg" color="#cfb296" /><v:textbox inset="0,0,0,0"><![endif]-->
+                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                          <tr>
+                            <td height="20" valign="top"><a href="%%track {[return http://www.thomson.co.uk/late-deals/late-deals.html?$tracking&elink=LATE6]} -group {html:22}%%"><img class="hide" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140606/click.gif" width="20" height="20" border="0" style="display:block" /></a></td>
+                          </tr>
+                          <tr>
+                            <td><table cellpadding="0" cellspacing="0" width="100%">
+                                <tr>
+                                  <td class="mobile-float" align="left" width="289" valign="top"><table class="offers-width" width="225" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td align="left" style="font-family:'tui', 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#FFFFFF; padding: 7px 10px 7px 15px" bgcolor="#FCB712"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM1]} -group {html:23}%%" style="font-family:'tui', 'Lucida Sans', 'Lucida Grande', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#FFFFFF; text-decoration:none; text-transform:uppercase;"><strong>Planning your next winter holiday?</strong><span style="color:#FFFFFF;  font-size:22px;"> &raquo; </span></a></td>
+                                      </tr>
+                                      <tr>
+                                        <td style="padding-bottom:10px;"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM1]} -group {html:24}%%"><img class="hide" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140606/click.gif" width="200" height="80" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                  <td align="center" class="mobile-float" width="314" valign="top"><table class="offers-width" width="314" cellspacing="0" border="0" cellpadding="0">
+                                      <tr>
+                                        <td><table width="100%" cellspacing="0" border="0" cellpadding="0">
+                                            <tr>
+                                              <td bgcolor="#f2eddc" style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:bold; color:#333333; padding-left:7px;" align="left"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM2]} -group {html:25}%%" style="color:#333333; text-decoration:none">SPAIN </a></td>
+                                              <td bgcolor="#f2eddc" width="2"><img width="2" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style="display:block" height="32" border="0" /></td>
+                                              <td bgcolor="#f2eddc" width="10"><img width="10" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="44" border="0" /></td>
+                                              <td bgcolor="#f2eddc" width="75" align="left"><font style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#333333"> from </font><br>
+                                                <a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM2]} -group {html:26}%%" style="color:#092a5e; font-size:18px; font-weight:bold; text-decoration:none;"><font style="color:#092a5e; font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; text-decoration:none;">&pound;245</font></a><sup style="color:#092a5e; font-size:14px;">*</sup></td>
+                                              <td bgcolor="#f2eddc" width="24"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM2]} -group {html:27}%%" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:18px; font-weight:bold; color:#092a5e; text-decoration:none">&raquo;</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table width="100%" cellspacing="0" border="0" cellpadding="0">
+                                            <tr>
+                                              <td bgcolor="#f9f6ed"  style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:bold; color:#333333; padding-left:7px;" align="left"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM3]} -group {html:28}%%" style="color:#333333; text-decoration:none">THE CANARIES</a></td>
+                                              <td bgcolor="#f9f6ed" width="2"><img width="2" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style="display:block" height="32" border="0" /></td>
+                                              <td bgcolor="#f9f6ed" width="10"><img width="10" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="44" border="0" /></td>
+                                              <td bgcolor="#f9f6ed" width="75" align="left"><font style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#333333"> from </font><br>
+                                                <a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM3]} -group {html:29}%%" style="color:#092a5e; font-size:18px; font-weight:bold; text-decoration:none;"><font style="color:#092a5e; font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; text-decoration:none;">&pound;298</font></a><sup style="color:#092a5e; font-size:14px;">*</sup></td>
+                                              <td bgcolor="#f9f6ed" width="24"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM3]} -group {html:30}%%" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:18px; font-weight:bold; color:#092a5e; text-decoration:none">&raquo;</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                      <tr>
+                                        <td><table width="100%" cellspacing="0" border="0" cellpadding="0">
+                                            <tr>
+                                              <td bgcolor="#f2eddc"  style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:15px; font-weight:bold; color:#333333; padding-left:7px;" align="left"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM4]} -group {html:31}%%" style="color:#333333; text-decoration:none">THAILAND</a></td>
+                                              <td bgcolor="#f2eddc" width="2"><img width="2" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/dots.gif" style="display:block" height="32" border="0" /></td>
+                                              <td bgcolor="#f2eddc" width="10"><img width="10" src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140207/spacer.gif" style="display:block" height="44" border="0" /></td>
+                                              <td bgcolor="#f2eddc" width="75" align="left"><font style="font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:12px; color:#333333"> from </font><br>
+                                                <a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM4]} -group {html:32}%%" style="color:#092a5e; font-size:18px; font-weight:bold; text-decoration:none;"><font style="color:#092a5e; font-family:'Lucida Sans', 'Lucida Grande', sans-serif; font-size:20px; font-weight:bold; text-decoration:none;">&pound;1043</font></a><sup style="color:#092a5e; font-size:14px;">*</sup></td>
+                                              <td bgcolor="#f2eddc" width="24"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUM4]} -group {html:33}%%" style="font-family:'Lucida Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size:18px; font-weight:bold; color:#092a5e; text-decoration:none">&raquo;</a></td>
+                                            </tr>
+                                          </table></td>
+                                      </tr>
+                                      <tr>
+                                        <td align="right" style="padding-top:10px; padding-bottom:15px;"><a href="%%track {[return http://www.thomson.co.uk/destinations/deals/winter-2015-deals?$tracking&elink=SUMcta]} -group {html:34}%%"><img src="http://cslb.creatormail.co.uk/sites/tui/thomson/TH140725/cta.png" width="180" height="40" alt="Find out more" border="0" style="display:block" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                  <td width="15" class="mobile-hide"></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>
+                        
+                        <!--[if gte mso 9]></v:textbox></v:rect><![endif]--></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+            
+            <!-- END SUB BANNNNER --> 
+       ]]>
+
+    </code>
+    <css>
+        specific css for this particular sub banner    
+    </css>
+    <height>217</height>
+    <width>750</width>
+</ThomsonSub>
+    
+</SubBanner>
+
+
