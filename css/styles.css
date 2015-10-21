@@ -1,0 +1,366 @@
+/*
+    Document   : css/styles.css
+    Created on : 2015-07-31 03:15 PM
+    Author     : cazsynnott
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+
+/* bootstrap amends
+ line 2264 commented out table background style
+ 
+ 
+ */
+h1 {
+	margin-top: 10px;
+}
+.navbar {
+	border-radius:0;
+}
+/*end of bootstrap amends */
+
+.trendbg {
+	 background-color:#c7dff1;
+}
+
+textarea {
+	width: 100%;
+	resize:vertical;
+	height:150px;
+	font-family:'Courier New';
+	font-size:10px;
+}
+
+section.instructions{
+       
+    padding-top:60px;
+    padding-bottom:60px;
+    
+}
+
+
+section.instructions p{
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:18px;
+    width:80%;
+    margin:0 auto;
+   
+    
+}
+
+section.instructions h2{
+    
+    width:70px;
+    height:70px;
+    margin:0 auto;
+    border-radius: 80px;
+    color:white;
+    background-color:#73afdc;
+    text-align:center;
+    padding-top:18px;
+    
+}
+
+
+
+/* New CSS */
+
+body{
+    
+    
+}
+
+.intro{
+        
+    padding-top:60px;
+    padding-bottom:60px;
+}
+
+section.banner.thomson{
+    
+    background-color:#c7dff1;
+    padding:25px 0;
+    
+    
+}
+
+section.banner.firstChoice{
+    background-color:#b8e1e4;
+    padding:25px 0;
+}
+
+section.banner h1{
+       
+    color:#333333;
+    font-size:20px;
+    padding-bottom:15px;
+    
+}
+
+section.banner.thomson:nth-child(even){
+    background-color:#d5e7f4;
+    
+}
+
+section.banner.firstChoice:nth-child(even){
+    background-color:#dbf0f2;
+    
+}
+
+iframe{
+    
+    border:0;
+    padding:0;
+    margin:0 auto;
+    overflow-x:hidden;
+}
+
+
+.carousel-control{
+       color:#092a5e;
+    width:0;
+    
+}
+
+
+.well{
+    
+    text-align:center;
+    overflow:hidden;
+    background:white;
+    padding-left:0;
+}
+
+.well.pad{
+    
+    padding-left:15px;
+    
+    
+}
+
+#myCarousel{
+    margin-top:70px;
+    text-align:center;
+    margin-bottom:70px;
+    
+}
+
+/* Slider */
+
+.bx-wrapper .bx-viewport{
+    
+    height:265px !important;
+    
+}
+
+li.bx-clone{
+    
+    height:212px;
+    
+}
+
+.bx-wrapper .bx-caption{
+    bottom:0;
+    position:relative;
+    
+    
+}
+
+p.EMP{
+    
+    font-size:16px;
+    padding-top:60px
+        padding-bottom:60px;
+}
+
+/* PRIMARY NAVIGATION */
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+        
+   color:black;
+   background-color:white;
+    
+}
+
+ul.nav{
+  width:100%;
+
+}
+
+
+
+ul.nav > li:first-child{
+       border-left:none;
+    
+}
+
+ul.nav > li ul{
+    border-top:2px solid #092a5e;
+    width:100%;
+    background-color:#70cbf4;
+    padding-left:14px;
+    padding-right:14px;
+
+
+}
+
+ul.nav > li ul li{
+      border-bottom:1px solid white;
+      height:45px;
+}
+
+
+
+ul.nav > li ul li a{ 
+      height:auto;
+      color:white;
+      padding-top:13px;
+      padding-bottom:13px;
+
+    
+}
+
+nav.navbar{
+    width:100%;
+    border-bottom:2px solid #70cbf4;
+    height:82px;
+}
+
+ul.nav > li > a{
+    line-height:2px;
+    position:relative;
+    border-left:2px solid #b7e5f9;
+    margin-top:23px;
+
+
+}
+
+
+
+/* END PRIMARY NAVIGATION STYLES */
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+ .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+     outline:0;
+     top:79px;
+ 
+  
+ }
+    
+    .nav > li > a:focus{
+           
+        background: none;
+        
+    }
+    
+   ul.nav{
+
+   width:100%;
+  display:table;
+  height:50px;
+
+    
+  
+}
+
+ul.nav > li{
+
+    display:table-cell;
+    width:20%;
+    text-align:center;
+    height:80px;
+
+
+}
+
+ul.nav > li:first-child{
+       border-left:none;
+    
+}
+
+ul.nav > li ul{
+    border-top:2px solid #092a5e;
+    width:100%;
+    background-color:#70cbf4;
+    padding-left:14px;
+    padding-right:14px;
+
+
+}
+
+ul.nav > li ul li{
+      border-bottom:1px solid white;
+      height:45px;
+}
+
+ul.nav > li ul li a{ 
+      height:auto;
+      color:white;
+      padding-top:13px;
+      padding-bottom:13px;
+
+    
+}
+
+nav.navbar{
+    width:100%;
+    border-bottom:2px solid #70cbf4;
+    height:82px;
+}
+
+ul.nav > li > a{
+line-height:2px;
+position:relative;
+border-left:2px solid #b7e5f9;
+margin-top:23px;
+
+
+}
+
+}
+
+
+
+@media (min-width: 992px) {
+
+}
+
+
+@media (max-width: 767px) {
+    ul.nav{
+           
+        background:#70cbf4;
+        width:100%;
+        
+    }
+    
+    ul.nav li{
+        
+        height:auto;
+    }
+    
+    ul.nav li a{
+        
+        height:auto;
+    }
+}
+
+
+
+
+
+
+
+
